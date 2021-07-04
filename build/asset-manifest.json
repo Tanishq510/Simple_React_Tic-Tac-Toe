@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.e025a499.chunk.css",
-    "main.js": "/public/static/js/main.38daa696.chunk.js",
-    "main.js.map": "/public/static/js/main.38daa696.chunk.js.map",
-    "runtime-main.js": "/public/static/js/runtime-main.953a9dd2.js",
-    "runtime-main.js.map": "/public/static/js/runtime-main.953a9dd2.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/public/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.07fedc7b.chunk.js": "/public/static/js/2.07fedc7b.chunk.js",
-    "static/js/2.07fedc7b.chunk.js.map": "/public/static/js/2.07fedc7b.chunk.js.map",
-    "index.html": "/public/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/public/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.e025a499.chunk.css.map": "/public/static/css/main.e025a499.chunk.css.map",
-    "static/js/2.07fedc7b.chunk.js.LICENSE.txt": "/public/static/js/2.07fedc7b.chunk.js.LICENSE.txt"
+    "main.css": "/Tanishq510/Tanishq510.github.io/static/css/main.e025a499.chunk.css",
+    "main.js": "/Tanishq510/Tanishq510.github.io/static/js/main.38daa696.chunk.js",
+    "main.js.map": "/Tanishq510/Tanishq510.github.io/static/js/main.38daa696.chunk.js.map",
+    "runtime-main.js": "/Tanishq510/Tanishq510.github.io/static/js/runtime-main.ca8322c7.js",
+    "runtime-main.js.map": "/Tanishq510/Tanishq510.github.io/static/js/runtime-main.ca8322c7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Tanishq510/Tanishq510.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.07fedc7b.chunk.js": "/Tanishq510/Tanishq510.github.io/static/js/2.07fedc7b.chunk.js",
+    "static/js/2.07fedc7b.chunk.js.map": "/Tanishq510/Tanishq510.github.io/static/js/2.07fedc7b.chunk.js.map",
+    "index.html": "/Tanishq510/Tanishq510.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Tanishq510/Tanishq510.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e025a499.chunk.css.map": "/Tanishq510/Tanishq510.github.io/static/css/main.e025a499.chunk.css.map",
+    "static/js/2.07fedc7b.chunk.js.LICENSE.txt": "/Tanishq510/Tanishq510.github.io/static/js/2.07fedc7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.953a9dd2.js",
+    "static/js/runtime-main.ca8322c7.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.07fedc7b.chunk.js",
     "static/css/main.e025a499.chunk.css",
