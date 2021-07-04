@@ -2,7 +2,6 @@
     background-color: black;
 }
 .setUp{
-    border:1px solid red;
     height: 90vh;
 }
 .info{
@@ -10,7 +9,6 @@
     flex-wrap: wrap;
     flex-direction: column;
     width: 10vh;
-    border:1px solid white
 }
 .flex-container{
     display: flex;

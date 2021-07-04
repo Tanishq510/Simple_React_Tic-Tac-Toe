@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tanishq510/Tanishq510.github.io/build/static/css/main.e025a499.chunk.css",
-    "main.js": "/Tanishq510/Tanishq510.github.io/build/static/js/main.38daa696.chunk.js",
-    "main.js.map": "/Tanishq510/Tanishq510.github.io/build/static/js/main.38daa696.chunk.js.map",
-    "runtime-main.js": "/Tanishq510/Tanishq510.github.io/build/static/js/runtime-main.b53abd0d.js",
-    "runtime-main.js.map": "/Tanishq510/Tanishq510.github.io/build/static/js/runtime-main.b53abd0d.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Tanishq510/Tanishq510.github.io/build/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.07fedc7b.chunk.js": "/Tanishq510/Tanishq510.github.io/build/static/js/2.07fedc7b.chunk.js",
-    "static/js/2.07fedc7b.chunk.js.map": "/Tanishq510/Tanishq510.github.io/build/static/js/2.07fedc7b.chunk.js.map",
-    "index.html": "/Tanishq510/Tanishq510.github.io/build/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Tanishq510/Tanishq510.github.io/build/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.e025a499.chunk.css.map": "/Tanishq510/Tanishq510.github.io/build/static/css/main.e025a499.chunk.css.map",
-    "static/js/2.07fedc7b.chunk.js.LICENSE.txt": "/Tanishq510/Tanishq510.github.io/build/static/js/2.07fedc7b.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.e025a499.chunk.css",
+    "main.js": "/static/js/main.38daa696.chunk.js",
+    "main.js.map": "/static/js/main.38daa696.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8118e0bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8118e0bb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.07fedc7b.chunk.js": "/static/js/2.07fedc7b.chunk.js",
+    "static/js/2.07fedc7b.chunk.js.map": "/static/js/2.07fedc7b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e025a499.chunk.css.map": "/static/css/main.e025a499.chunk.css.map",
+    "static/js/2.07fedc7b.chunk.js.LICENSE.txt": "/static/js/2.07fedc7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b53abd0d.js",
+    "static/js/runtime-main.8118e0bb.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.07fedc7b.chunk.js",
     "static/css/main.e025a499.chunk.css",
