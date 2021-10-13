@@ -144,7 +144,6 @@ return (
 
 
 ReactDom.render(
-  <Board/>
-  ,
-  document.getElementById('root')
-)
+  <Board/>,
+   document.getElementById('root')
+   )
